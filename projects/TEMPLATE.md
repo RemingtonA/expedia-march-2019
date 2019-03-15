@@ -1,4 +1,4 @@
-# Project title
+# Awesome Recycling App
 
 ## About
 
@@ -32,4 +32,4 @@ Last, but not least, names of the proud contributors please!
 
 | Name | GitHub | Twitter | LinkedIn | Other |
 | :--- | :--- | :--- | :--- | :--- |
-| Member 1 | member1 | @member1 | - | - |
+| Remington Anton Amalanathan | Ahdra Merali | @member1 | - | - |
