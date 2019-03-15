@@ -32,4 +32,4 @@ Last, but not least, names of the proud contributors please!
 
 | Name | GitHub | Twitter | LinkedIn | Other |
 | :--- | :--- | :--- | :--- | :--- |
-|  | | @member1 | - | - |
+| Remington Anton Amalanathan | Ahdra Merali | Sophia Mina | - | - |
