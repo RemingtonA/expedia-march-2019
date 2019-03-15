@@ -32,6 +32,6 @@ Last, but not least, names of the proud contributors please!
 
 | Name | GitHub | Twitter | LinkedIn | Other |
 | :--- | :--- | :--- | :--- | :--- |
-| Remington Anton Amalanathan | Ahdra Merali | Sophia Mina | - | - |
+| Remington Anton Amalanathan |  | | - | - |
 | Ahdra Merali | | | - | - |
 | Sophia Mina | | | - | - |
